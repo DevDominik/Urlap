@@ -1,0 +1,53 @@
+#mainframe {
+    margin: 100px;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(228, 228, 228);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#adat1 {
+    color: rgb(138, 136, 136)
+}
+
+#adat2 {
+    position: absolute;
+    left: 10cm;
+    top: 4.5cm;
+}
+
+
+form input, form select {
+    margin-bottom: 0.45cm;
+}
+
+sup {
+    color: red;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 0.35cm;
+}
+
+.important {
+    border-color: crimson;
+}
+
+.submit {
+    background-color: orange;
+    border-color: orangered;
+    color: white;
+    margin-left: -6.5cm;
+    margin-top: 1.5cm;
+    border-radius: 10px;
+    text-align: center;
+    width: 3cm;
+    height: 1cm;
+    font-size: 0.5cm;
+}
+
+p {
+    font-size: 0.7cm;
+    color: rgb(138, 136, 136);
+}
